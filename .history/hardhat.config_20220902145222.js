@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     hardhat: {},
     mumbai: {
-      //polygon mumbai https
+      //polygon url
        url: "https://polygon-mumbai.g.alchemy.com/v2/0duhGORdZM5yzJC0qo0GXGNsMKS7tTNY",
 
        //private key of metask account
